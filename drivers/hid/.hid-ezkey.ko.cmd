@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-ezkey.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/7510BuildSystem-TNSTC/Kernel/scripts/module-common.lds --build-id  -o drivers/hid/hid-ezkey.ko drivers/hid/hid-ezkey.o drivers/hid/hid-ezkey.mod.o

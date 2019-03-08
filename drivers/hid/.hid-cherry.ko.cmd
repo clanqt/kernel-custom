@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-cherry.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/7510BuildSystem-TNSTC/Kernel/scripts/module-common.lds --build-id  -o drivers/hid/hid-cherry.ko drivers/hid/hid-cherry.o drivers/hid/hid-cherry.mod.o

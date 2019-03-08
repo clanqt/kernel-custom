@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-logitech.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/7510BuildSystem-TNSTC/Kernel/scripts/module-common.lds --build-id  -o drivers/hid/hid-logitech.ko drivers/hid/hid-logitech.o drivers/hid/hid-logitech.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_multi.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_multi.ko drivers/usb/gadget/g_multi.o drivers/usb/gadget/g_multi.mod.o

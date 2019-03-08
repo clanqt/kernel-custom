@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/hid/hid.ko drivers/hid/hid.o drivers/hid/hid.mod.o

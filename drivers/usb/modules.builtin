@@ -1,0 +1,8 @@
+kernel/drivers/usb/usb-common.ko
+kernel/drivers/usb/class/cdc-acm.ko
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/gadget/udc-core.ko
+kernel/drivers/usb/gadget/nuc970_udc.ko
+kernel/drivers/usb/host/ehci-hcd.ko
+kernel/drivers/usb/host/ohci-hcd.ko
+kernel/drivers/usb/storage/usb-storage.ko

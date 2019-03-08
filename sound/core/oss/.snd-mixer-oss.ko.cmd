@@ -1,0 +1,1 @@
+cmd_sound/core/oss/snd-mixer-oss.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o sound/core/oss/snd-mixer-oss.ko sound/core/oss/snd-mixer-oss.o sound/core/oss/snd-mixer-oss.mod.o

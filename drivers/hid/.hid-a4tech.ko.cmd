@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-a4tech.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/7510BuildSystem-TNSTC/Kernel/scripts/module-common.lds --build-id  -o drivers/hid/hid-a4tech.ko drivers/hid/hid-a4tech.o drivers/hid/hid-a4tech.mod.o

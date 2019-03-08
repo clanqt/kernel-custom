@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-microsoft.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/7510BuildSystem-TNSTC/Kernel/scripts/module-common.lds --build-id  -o drivers/hid/hid-microsoft.ko drivers/hid/hid-microsoft.o drivers/hid/hid-microsoft.mod.o

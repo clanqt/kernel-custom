@@ -1,0 +1,1 @@
+cmd_drivers/misc/nxp-pn5xx/pn5xx_i2c.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/misc/nxp-pn5xx/pn5xx_i2c.ko drivers/misc/nxp-pn5xx/pn5xx_i2c.o drivers/misc/nxp-pn5xx/pn5xx_i2c.mod.o

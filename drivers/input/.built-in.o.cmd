@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  arm-poky-linux-gnueabi-ld -EL    -r -o drivers/input/built-in.o drivers/input/input-core.o drivers/input/matrix-keymap.o drivers/input/mousedev.o drivers/input/evdev.o drivers/input/nuvoton/built-in.o drivers/input/keyboard/built-in.o 

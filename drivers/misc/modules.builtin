@@ -1,0 +1,5 @@
+kernel/drivers/misc/nuc970-sc.ko
+kernel/drivers/misc/sc-util.ko
+kernel/drivers/misc/sc-t0.ko
+kernel/drivers/misc/sc-t1.ko
+kernel/drivers/misc/eeprom/at24.ko

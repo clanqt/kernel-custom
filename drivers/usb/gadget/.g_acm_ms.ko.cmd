@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_acm_ms.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_acm_ms.ko drivers/usb/gadget/g_acm_ms.o drivers/usb/gadget/g_acm_ms.mod.o

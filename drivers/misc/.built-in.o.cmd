@@ -1,0 +1,1 @@
+cmd_drivers/misc/built-in.o :=  arm-poky-linux-gnueabi-ld -EL    -r -o drivers/misc/built-in.o drivers/misc/eeprom/built-in.o drivers/misc/cb710/built-in.o drivers/misc/nxp-pn5xx/built-in.o drivers/misc/ti-st/built-in.o drivers/misc/lis3lv02d/built-in.o drivers/misc/carma/built-in.o drivers/misc/nuc970-sc.o drivers/misc/sc-util.o drivers/misc/sc-t0.o drivers/misc/sc-t1.o 

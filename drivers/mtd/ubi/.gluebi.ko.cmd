@@ -1,0 +1,1 @@
+cmd_drivers/mtd/ubi/gluebi.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/7510BuildSystem/Kernel/scripts/module-common.lds --build-id  -o drivers/mtd/ubi/gluebi.ko drivers/mtd/ubi/gluebi.o drivers/mtd/ubi/gluebi.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/dm9601.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/net/usb/dm9601.ko drivers/net/usb/dm9601.o drivers/net/usb/dm9601.mod.o

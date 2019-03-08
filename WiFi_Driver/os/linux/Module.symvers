@@ -1,0 +1,2 @@
+0x00000000	rausb_autopm_get_interface	/home/elinux/7510BuildSystem/Kernel/WiFi_Driver/os/linux/mt7601Usta	EXPORT_SYMBOL
+0x00000000	rausb_autopm_put_interface	/home/elinux/7510BuildSystem/Kernel/WiFi_Driver/os/linux/mt7601Usta	EXPORT_SYMBOL

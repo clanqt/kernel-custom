@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_mass_storage.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_mass_storage.ko drivers/usb/gadget/g_mass_storage.o drivers/usb/gadget/g_mass_storage.mod.o

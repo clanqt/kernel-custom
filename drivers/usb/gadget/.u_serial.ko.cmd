@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/u_serial.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o drivers/usb/gadget/u_serial.ko drivers/usb/gadget/u_serial.o drivers/usb/gadget/u_serial.mod.o

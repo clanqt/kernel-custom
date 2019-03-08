@@ -1,0 +1,8 @@
+kernel/drivers/net/mii.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/ppp/ppp_generic.ko
+kernel/drivers/net/ppp/ppp_async.ko
+kernel/drivers/net/ppp/ppp_mppe.ko
+kernel/drivers/net/ppp/ppp_synctty.ko
+kernel/drivers/net/slip/slhc.ko
+kernel/drivers/net/wireless/hostap/hostap.ko

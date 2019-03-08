@@ -1,0 +1,1 @@
+cmd_sound/core/snd-page-alloc.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/elinux/Gokul_Project/7510BuildSystem-TNSTC-NewAPI/Kernel/scripts/module-common.lds --build-id  -o sound/core/snd-page-alloc.ko sound/core/snd-page-alloc.o sound/core/snd-page-alloc.mod.o
